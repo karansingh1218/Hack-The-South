@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "steadfast-baton-230501",
+  "private_key_id": "b7b011a569eadb1b888580617a76a110b6b2b898",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpx3tBUrZvxp1+\nqWLoMbDoPJfjiTlD/0SUFmd2LITXJ2AYS87GEpNf/lyxtQ+WjtEeE3XOXasmXkCE\nLfHdWZkHX9uQN1k5cfRZDNEmp61XlFOF5sse8oJFPpR/58jmR8galpuUeaXfHOCi\n8spc/bt3YZ5VdcERsyM1lXgzigrLmRbY1DOXiUJWdYZxIC7hLyUtabJZKxGcFGfk\nSKRHEAiVaRhAHlJh2u0Ajro9BJHIxCEYygt4SALi8u+Bdg3PhRq464+M6oo0Zwpa\nm3auqet1BaPRKEG7m+iZek1442oqDAdMm/7BEoNs89Yqq0rzh4MRybPwOwUaRNWd\nCttzQpJZAgMBAAECggEAEfonY0WTW+hqZ2QVLq/WNSBRDyFCnb+n1robqKhnFWMk\nw5mIxA3c9rkeXa1ZDoXa/4oVjryrPZ8VLP+aJXW6C9Qg6T0oXP+DVRm5jP8V7bHX\n8726CZ4ydaqzTAasmfC+gDTsBTCO7dJQVUIrB5hHbeMRhEGINZk7RZKXP2IHzydy\noBxGm/jnRjJ0wOZfYh/IkfXjvBNMDK+beiyaevKsVqKivp6RFA2JDumjVUxyw2ac\nolvctgjyTT+Q3LY+FRj4spAkR1FlzIXka6z7AfP6G3qggKWxjvdsCxcnG7f+b/SZ\npbJesQSmGDdJ3ExgLFhNwPzdYK4E8YSM+q590aFAdQKBgQD5kPgoEsEPlfoC9BCX\nCugP+7gOIut4/ifrb3I7D1pb3vxlYrmSPg+cHOqSvZ+pOkirMjAL2dhor8RChEst\n8F8TLcgA3zWd5KK57y9LLQ391DwuSONrmDPK95khe94PB8x1aummFlBJZkv6MMjY\nq4kOFlhjwSlvc/XHbL3uZjiREwKBgQDvzlMCRyf40j3DjzBkwsNdX2v2o+rk7ooE\nLh++3gLjdMMnIE+vZWjh9awzm4NQ1WSMoB7ymmgROW/ku6aktbIJU/+Z4Z7sC3GR\nlIw41d18t464xguG6YhwZ8qs85nyPZNAsWNJVynUdK3zdx79SwApf/3Ml4m4wcgl\nrdAb9tqoYwKBgQDzlnMQshVsQAeRoGUc+BE/oIKqkZziMLgIDXQifz7D0ybpUm4s\ndpTH3FV8usa+51uMdWT9/DhFHeHixruWcDpsPtArQbJUlZfbAcFYj/ZLHT9MMep/\n10QeRINbckpwwzzmEl9RtA/TRJy966XuDaetb1QAscXeugFYECRmL7HgrwKBgD/O\nqGusv0gHuQN18Cx/XjhUEYgY6YFsrzCZjTzeGeqnwN2CTXGgDB5DnkRFFtXFUfHR\nESsARrx+ifVUsOyWo/6zaQlq7TxldxyDaCQfU8XBmao0mBCXxwQRue33C3lXRP0r\ntf1nweuT+E0V3xsKf8qLEd8EW1LbzQOpkfw+3MN9AoGBAMiQHci+ReQcRDbyhMA8\n0I72rF4Xf2Grk1cDayDhyNvN3Cm3zGfB8lewPLnGiwYI09WVoFJbzYlG8K+yjeLU\nYvtkhS9U6PpTvZi1m1aQ7H4KlDLL1f4BU2vpptZFoHO8IdbPCWMgbmQUuZHve79G\naFXIVZFv0GJcLQrP3W0acJ1f\n-----END PRIVATE KEY-----\n",
+  "client_email": "babel-fish@steadfast-baton-230501.iam.gserviceaccount.com",
+  "client_id": "106038393318972241746",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/babel-fish%40steadfast-baton-230501.iam.gserviceaccount.com"
+}
